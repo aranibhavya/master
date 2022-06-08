@@ -10,4 +10,6 @@ dessert
 
 thank you
 
+rooms are available in this hotel to stay.
+
 come again
